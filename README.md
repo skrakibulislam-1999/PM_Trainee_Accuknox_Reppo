@@ -14,7 +14,7 @@ investigate and resolve a cloud security alert.
   and success metrics
 
 ## Figma Wireframes
-[Paste your Figma link here]
+[[Paste your Figma link here]](https://www.figma.com/design/FPiMsjYEUQW0c1gQrwuvQG/accuknox-alert-triage-design?node-id=0-1&t=PUqeSoGpY0FGTwEU-1)
 
 ## Submitted by
 SK RAKIBUL ISLAM
