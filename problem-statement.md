@@ -1,4 +1,4 @@
-# Problem Statement & User Persona
+# Problem Statement And User Persona
 ## Accuknox — Alert Triage Workflow
 
 ## Problem Statement
