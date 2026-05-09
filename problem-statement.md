@@ -1,8 +1,6 @@
 # Problem Statement & User Persona
 ## Accuknox — Alert Triage Workflow
 
----
-
 ## Problem Statement
 
 Security engineers managing cloud infrastructure deal with a 
@@ -17,7 +15,6 @@ This design brings everything — context, severity, remediation
 steps, ownership, and resolution — into one focused workflow 
 so engineers can move from alert to resolved as fast as possible.
 
----
 
 ## User Persona
 
